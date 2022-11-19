@@ -1,0 +1,21 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Release\) contains files shared from another project (EstrellaDavid.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  EstrellaDavid.cpp
+C:\Users\inmad\Documents\Enginyeria informatica\SGI\Seminarios_ISGI_2022\codebase\Utilidades.h(29,44): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+C:\Users\inmad\Documents\Enginyeria informatica\SGI\Seminarios_ISGI_2022\codebase\Utilidades.h(30,45): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+C:\Users\inmad\Documents\Enginyeria informatica\SGI\Seminarios_ISGI_2022\codebase\Utilidades.h(35,57): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+C:\Users\inmad\Documents\Enginyeria informatica\SGI\Seminarios_ISGI_2022\codebase\Utilidades.h(36,57): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+C:\Users\inmad\Documents\Enginyeria informatica\SGI\Seminarios_ISGI_2022\codebase\Utilidades.h(38,54): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+C:\Users\inmad\Documents\Enginyeria informatica\SGI\Seminarios_ISGI_2022\codebase\Utilidades.h(252,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\inmad\Documents\Enginyeria informatica\SGI\Seminarios_ISGI_2022\EstrellaDavid\EstrellaDavid.cpp(20,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\inmad\Documents\Enginyeria informatica\SGI\Seminarios_ISGI_2022\EstrellaDavid\EstrellaDavid.cpp(21,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\inmad\Documents\Enginyeria informatica\SGI\Seminarios_ISGI_2022\EstrellaDavid\EstrellaDavid.cpp(25,41): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\inmad\Documents\Enginyeria informatica\SGI\Seminarios_ISGI_2022\EstrellaDavid\EstrellaDavid.cpp(26,45): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\inmad\Documents\Enginyeria informatica\SGI\Seminarios_ISGI_2022\EstrellaDavid\EstrellaDavid.cpp(27,45): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\inmad\Documents\Enginyeria informatica\SGI\Seminarios_ISGI_2022\EstrellaDavid\EstrellaDavid.cpp(28,45): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\inmad\Documents\Enginyeria informatica\SGI\Seminarios_ISGI_2022\EstrellaDavid\EstrellaDavid.cpp(60,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\inmad\Documents\Enginyeria informatica\SGI\Seminarios_ISGI_2022\EstrellaDavid\EstrellaDavid.cpp(68,34): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 6 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  EstrellaDavid.vcxproj -> C:\Users\inmad\Documents\Enginyeria informatica\SGI\Seminarios_ISGI_2022\EstrellaDavid\P1_EstrellaDavid.exe

@@ -1,0 +1,36 @@
+﻿  Noria.cpp
+C:\Users\inmad\Documents\Enginyeria informatica\SGI\Seminarios_ISGI_2022\codebase\Utilidades.h(29,44): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+C:\Users\inmad\Documents\Enginyeria informatica\SGI\Seminarios_ISGI_2022\codebase\Utilidades.h(30,45): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+C:\Users\inmad\Documents\Enginyeria informatica\SGI\Seminarios_ISGI_2022\codebase\Utilidades.h(35,57): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+C:\Users\inmad\Documents\Enginyeria informatica\SGI\Seminarios_ISGI_2022\codebase\Utilidades.h(36,57): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+C:\Users\inmad\Documents\Enginyeria informatica\SGI\Seminarios_ISGI_2022\codebase\Utilidades.h(38,54): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+C:\Users\inmad\Documents\Enginyeria informatica\SGI\Seminarios_ISGI_2022\codebase\Utilidades.h(252,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\inmad\Documents\Enginyeria informatica\SGI\Seminarios_ISGI_2022\NoriaSGI\Noria.cpp(18,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\inmad\Documents\Enginyeria informatica\SGI\Seminarios_ISGI_2022\NoriaSGI\Noria.cpp(18,49): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\inmad\Documents\Enginyeria informatica\SGI\Seminarios_ISGI_2022\NoriaSGI\Noria.cpp(23,38): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\inmad\Documents\Enginyeria informatica\SGI\Seminarios_ISGI_2022\NoriaSGI\Noria.cpp(24,35): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\inmad\Documents\Enginyeria informatica\SGI\Seminarios_ISGI_2022\NoriaSGI\Noria.cpp(25,55): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\inmad\Documents\Enginyeria informatica\SGI\Seminarios_ISGI_2022\NoriaSGI\Noria.cpp(45,41): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\inmad\Documents\Enginyeria informatica\SGI\Seminarios_ISGI_2022\NoriaSGI\Noria.cpp(46,45): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\inmad\Documents\Enginyeria informatica\SGI\Seminarios_ISGI_2022\NoriaSGI\Noria.cpp(47,45): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\inmad\Documents\Enginyeria informatica\SGI\Seminarios_ISGI_2022\NoriaSGI\Noria.cpp(48,45): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\inmad\Documents\Enginyeria informatica\SGI\Seminarios_ISGI_2022\NoriaSGI\Noria.cpp(72,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\inmad\Documents\Enginyeria informatica\SGI\Seminarios_ISGI_2022\NoriaSGI\Noria.cpp(79,54): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\inmad\Documents\Enginyeria informatica\SGI\Seminarios_ISGI_2022\NoriaSGI\Noria.cpp(141,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\inmad\Documents\Enginyeria informatica\SGI\Seminarios_ISGI_2022\NoriaSGI\Noria.cpp(147,26): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\inmad\Documents\Enginyeria informatica\SGI\Seminarios_ISGI_2022\NoriaSGI\Noria.cpp(154,43): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\inmad\Documents\Enginyeria informatica\SGI\Seminarios_ISGI_2022\NoriaSGI\Noria.cpp(155,22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\inmad\Documents\Enginyeria informatica\SGI\Seminarios_ISGI_2022\NoriaSGI\Noria.cpp(160,42): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\inmad\Documents\Enginyeria informatica\SGI\Seminarios_ISGI_2022\NoriaSGI\Noria.cpp(161,22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\inmad\Documents\Enginyeria informatica\SGI\Seminarios_ISGI_2022\NoriaSGI\Noria.cpp(170,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\inmad\Documents\Enginyeria informatica\SGI\Seminarios_ISGI_2022\NoriaSGI\Noria.cpp(234,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\inmad\Documents\Enginyeria informatica\SGI\Seminarios_ISGI_2022\NoriaSGI\Noria.cpp(235,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\inmad\Documents\Enginyeria informatica\SGI\Seminarios_ISGI_2022\NoriaSGI\Noria.cpp(275,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\inmad\Documents\Enginyeria informatica\SGI\Seminarios_ISGI_2022\NoriaSGI\Noria.cpp(289,51): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\inmad\Documents\Enginyeria informatica\SGI\Seminarios_ISGI_2022\NoriaSGI\Noria.cpp(290,48): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Generating code
+  3 of 139 functions ( 2.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  NoriaSGI.vcxproj -> C:\Users\inmad\Documents\Enginyeria informatica\SGI\Seminarios_ISGI_2022\NoriaSGI\NoriaSGI.exe
